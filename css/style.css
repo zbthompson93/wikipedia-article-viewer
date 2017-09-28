@@ -1,0 +1,23 @@
+body {
+  background-color: silver;
+}
+#title {
+  padding: 50px;
+  font-size: 400%;
+}
+#getRando {
+  background-color: orange;
+  color: white;
+}
+#result {
+  background-color: white;
+  border-radius: 5px;
+}
+#link {
+  text-decoration: none;
+  color: black;
+}
+
+#link:hover {
+  color: blue;
+}
